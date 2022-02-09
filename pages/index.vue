@@ -1,9 +1,16 @@
 <template>
-  <Tutorial />
+  <div class="container__box">
+  <Skiplink/>
+  <Header/>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+
 }
 </script>
+
+<style>
+
+</style>
